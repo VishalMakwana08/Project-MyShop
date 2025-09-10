@@ -1,5 +1,14 @@
 # Project-<b color='blue'>MyShop</b>
-<h1 style="color:#ff0000">Online Shop Management System</h1>
+<style>
+  .my{
+    color:blue;
+  }
+  .shop{
+
+  color:green;
+  }
+</style>
+<h1>Online Shop Management System - <span>My</span><span>Shop</span></h1>
 <br>
 <h2>Introduction</h2>
 <p>
