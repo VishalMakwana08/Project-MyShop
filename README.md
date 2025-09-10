@@ -1,4 +1,6 @@
 # Project-<b color='blue'>MyShop</b>
+<html>
+  <head>
 <style>
   .my{
     color:blue;
@@ -8,6 +10,7 @@
   color:green;
   }
 </style>
+</head>
 <h1>Online Shop Management System - <span>My</span><span>Shop</span></h1>
 <br>
 <h2>Introduction</h2>
@@ -25,3 +28,5 @@ User/customer portal to buy and track products online.</li>
 <li>Multi-shop support with centralized admin.</li>
 
 <li>Payment gateway integration.</li></ul>
+</body>
+</html>
