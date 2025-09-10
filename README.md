@@ -6,3 +6,12 @@
 My Online Shop Management System is a web-based application built with PHP that helps local shop owners manage their products, categories, billing, and workers efficiently. It provides a modern, responsive interface powered by Tailwind CSS, Font Awesome, and other CDN-based tools for faster loading and cleaner design.
 
 The system is designed to make day-to-day shop operations easier by providing features like product management, category handling, billing history, etc</p>
+<h2>Future Scope</h2>
+<p>
+User/customer portal to buy and track products online.
+
+Advanced reporting with analytics dashboards.
+
+Multi-shop support with centralized admin.
+
+Payment gateway integration.</p>
