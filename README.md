@@ -11,6 +11,7 @@
   }
 </style>
 </head>
+<body>
 <h1>Online Shop Management System - <span>My</span><span>Shop</span></h1>
 <br>
 <h2>Introduction</h2>
