@@ -7,11 +7,12 @@ My Online Shop Management System is a web-based application built with PHP that 
 
 The system is designed to make day-to-day shop operations easier by providing features like product management, category handling, billing history, etc</p>
 <h2>Future Scope</h2>
-<p>
-User/customer portal to buy and track products online.
+<ul>
+  <li>
+User/customer portal to buy and track products online.</li>
 
-Advanced reporting with analytics dashboards.
+<li>Advanced reporting with analytics dashboards.</li>
 
-Multi-shop support with centralized admin.
+<li>Multi-shop support with centralized admin.</li>
 
-Payment gateway integration.</p>
+<li>Payment gateway integration.</li></ul>
