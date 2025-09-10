@@ -1,4 +1,4 @@
-# Project-<b>MyShop</b>
+# Project-<b color='blue'>MyShop</b>
 <h1>Online Shop Management System</h1>
 <br>
 <h2>Introduction</h2>
