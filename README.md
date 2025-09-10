@@ -44,12 +44,17 @@ Download and install XAMPP (recommended) or WAMP/LAMP.
 
 XAMPP Download
 
-2️⃣ Clone the Repository
+2️⃣ Download the Project
 
-Open a terminal/command prompt and run:
+If you are using GitHub:
 
-git clone https://github.com/your-username/online-shop-management.git
+Click the green Code button on this repository.
 
+Select Download ZIP.
+
+Extract the ZIP file.
+
+If you have the project on DVD, copy the project folder directly to your computer.
 3️⃣ Move Project to Server Directory
 
 Copy the project folder into your htdocs directory (for XAMPP):
