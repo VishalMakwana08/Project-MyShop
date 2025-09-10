@@ -55,6 +55,7 @@ Select Download ZIP.
 Extract the ZIP file.
 
 If you have the project on DVD, copy the project folder directly to your computer.
+
 3️⃣ Move Project to Server Directory
 
 Copy the project folder into your htdocs directory (for XAMPP):
