@@ -8,7 +8,7 @@ My Online Shop Management System is a web-based application built with PHP that 
 
 The system is designed to make day-to-day shop operations easier by providing features like product management, category handling, billing history, etc</p>
 <h2>Tech Stack</h2>
-
+<p>
 Frontend:
 
 Tailwind CSS
@@ -33,7 +33,7 @@ MySQL
 
 Other:
 
-CDN integrations for styling, icons, and charts (all open-source)
+CDN integrations for styling, icons, and charts (all open-source)</p>
 <h2>Future Scope</h2>
 <ul>
   <li>
